@@ -1,0 +1,6 @@
+forward-socks5 / 127.0.0.1:{LOCAL_PORT} .
+listen-address 127.0.0.1:{PRIVOXY_PORT}
+hide-console
+toggle 0
+show-on-task-bar 0
+activity-animation 0
