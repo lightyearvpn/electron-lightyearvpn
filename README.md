@@ -25,7 +25,7 @@ npm start
 
 How to use:
 1. Get ss-server IP address, port, password and encryption method. (Google search how to build shadowsocks server tutorial)
-2. Enter these infomation into electron-lightyearvpn
+2. Enter these information into electron-lightyearvpn
 3. Connect!
 
 ![electron-lightyearvpn](/assets/electron-lightyearvpn.jpg)
