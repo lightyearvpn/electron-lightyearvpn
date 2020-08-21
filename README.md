@@ -2,7 +2,7 @@
 
 Shadowsocks client build with [ElectronJS](https://www.electronjs.org/) and [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev).
 
-ElectronJS + React + Material-UI
+[ElectronJS](https://www.electronjs.org/) + [React](https://reactjs.org/) + [Material-UI](https://material-ui.com/)
 
 Supports Windows and MacOS.
 
