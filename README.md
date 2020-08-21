@@ -34,7 +34,7 @@ How to use:
 
 ## TODOS
 
-* Build for Windows and MacOS
+* Builds applications for Windows and MacOS
 * Supports Linux.
 * Localization. 
 * Auto mode and global mode for shadowsocks connection
