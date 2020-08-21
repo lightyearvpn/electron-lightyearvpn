@@ -4,7 +4,7 @@ Shadowsocks client build with [ElectronJS](https://www.electronjs.org/) and [sha
 
 ElectronJS + React + Material-UI
 
-Supports Windows and MacOS. Need to support Linux in the future.
+Supports Windows and MacOS.
 
 ## Development
 
@@ -28,8 +28,25 @@ How to use:
 2. Enter these information into electron-lightyearvpn
 3. Connect!
 
+## Screenshots
+
 ![electron-lightyearvpn](/assets/electron-lightyearvpn.jpg)
+
+## TODOS
+
+* Build for Windows and MacOS
+* Supports Linux.
+* Localization. 
+* Auto mode and global mode for shadowsocks connection
 
 ## License
 
 Released under the MIT license.
+
+## Built by [LightyearVPN](http://lightyearvpn.com/) with ❤️. 
+
+- https://github.com/lightyearvpn/electron-lightyearvpn
+- https://github.com/lightyearvpn/LightyearVPN 
+- http://lightyearapp.club/
+- http://lightyearvpn.com/
+
