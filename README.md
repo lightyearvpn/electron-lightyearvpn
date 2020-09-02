@@ -47,6 +47,6 @@ Released under the MIT license.
 
 - https://github.com/lightyearvpn/electron-lightyearvpn
 - https://github.com/lightyearvpn/LightyearVPN 
-- http://lightyearapp.club/
+- http://lightyearapp.me/
 - http://lightyearvpn.com/
 
